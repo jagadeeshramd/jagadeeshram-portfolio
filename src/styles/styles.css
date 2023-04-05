@@ -1,0 +1,26 @@
+body {
+    background-color: #1a1a1a;
+    color: #f1f1f1;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .header, .about, .projects, .contact {
+    margin-bottom: 50px;
+  }
+  
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+  
+  p {
+    color: #c0c0c0;
+  }
+  
+  /* Additional styling for buttons, links, etc. */
+  
